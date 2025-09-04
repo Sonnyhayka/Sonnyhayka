@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Son Huynh!
 
-<!--
-**Sonnyhayka/Sonnyhayka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer and engineer interested in computer architecture, embedded systems, and creative coding projects. Here you'll find a collection of my work, ranging from RISC-V CPU designs to web development and data modeling.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 **Currently a Computer Engineering major at SDSU (San Diego State University).**
+- 💻 Experienced with VHDL, Verilog, Python, JavaScript, and C++.
+- 🛠️ Enjoy working on FPGA projects and exploring low-level computing.
+- 📊 Interested in data modeling, machine learning, and simulation.
+
+## 🔥 Featured Projects
+
+- [RISC-V 5-Stage Pipeline CPU](https://github.com/Sonnyhayka/RISC-V-5-Stage-Pipeline-CPU)  
+  A custom implementation of a RISC-V CPU with a 5-stage pipeline.
+
+- [CPU Design with FPGA](https://github.com/Sonnyhayka/CPU-Design-with-FPGA-)  
+  Designing and testing CPUs using FPGA platforms.
+
+- [Covid Logistic Model](https://github.com/Sonnyhayka/Covid-logistic-model)  
+  Data science project modeling the spread of COVID-19 using logistic regression.
+
+- [Personal Website](https://github.com/Sonnyhayka/SonnyHuynh.github.io)  
+  My portfolio and blog, built with modern web technologies.
+
+## 📫 How to Reach Me
+
+- Email: huynhhoangson608@gmail.com
+- LinkedIn: https://www.linkedin.com/in/son-hoang-huynh
+- GitHub: [@Sonnyhayka](https://github.com/Sonnyhayka)
+
+## 📝 Latest Activity
+
+Check out my latest repositories and contributions, and feel free to connect or collaborate!
+
+---
+
+_Thanks for stopping by!_ 😊
