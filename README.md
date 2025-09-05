@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer and engineer interested in computer architecture, embedded systems, and creative coding projects. Here you'll find a collection of my work, ranging from RISC-V CPU designs to web development and data modeling.
 
+
+
 ## 🚀 About Me
 
 - 🏫 **Currently a Computer Engineering major at SDSU (San Diego State University)**
@@ -9,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer interested
 - 🛠️ Enjoy working on FPGA projects and exploring low-level computing
 - 📊 Interested in data modeling, machine learning, and simulation
 
-## Featured Projects
+## 🔥 Featured Projects
 
 - [RISC-V 5-Stage Pipeline CPU](https://github.com/Sonnyhayka/RISC-V-5-Stage-Pipeline-CPU)  
   A custom implementation of a RISC-V CPU with a 5-stage pipeline.
@@ -20,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer interested
 - [Personal Website](https://github.com/Sonnyhayka/SonnyHuynh.github.io)  
   My portfolio and blog, built with modern web technologies.
 
-## 📫 My Contacts
+## 📫 How to Reach Me
 
 - Email: huynhhoangson608@gmail.com
 - LinkedIn: https://www.linkedin.com/in/son-hoang-huynh
@@ -33,3 +35,4 @@ Check out my latest repositories and contributions, and feel free to connect or 
 ---
 
 _Thanks for stopping by!_ 😊
+![Cat on Skateboard](https://media1.tenor.com/m/y8zjaIK8rpoAAAAC/cat-on-skateboard-cat.gif)
