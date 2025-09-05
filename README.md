@@ -4,18 +4,15 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer interested
 
 ## 🚀 About Me
 
-- 🏫 **Currently a Computer Engineering major at SDSU (San Diego State University).**
-- 💻 Experienced with VHDL, Verilog, Python, JavaScript, and C++.
-- 🛠️ Enjoy working on FPGA projects and exploring low-level computing.
-- 📊 Interested in data modeling, machine learning, and simulation.
+- 🏫 **Currently a Computer Engineering major at SDSU (San Diego State University)**
+- 💻 Experienced with VHDL, Verilog, Python, JavaScript, and C++
+- 🛠️ Enjoy working on FPGA projects and exploring low-level computing
+- 📊 Interested in data modeling, machine learning, and simulation
 
-## 🔥 Featured Projects
+## Featured Projects
 
 - [RISC-V 5-Stage Pipeline CPU](https://github.com/Sonnyhayka/RISC-V-5-Stage-Pipeline-CPU)  
   A custom implementation of a RISC-V CPU with a 5-stage pipeline.
-
-- [CPU Design with FPGA](https://github.com/Sonnyhayka/CPU-Design-with-FPGA-)  
-  Designing and testing CPUs using FPGA platforms.
 
 - [Covid Logistic Model](https://github.com/Sonnyhayka/Covid-logistic-model)  
   Data science project modeling the spread of COVID-19 using logistic regression.
@@ -23,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer interested
 - [Personal Website](https://github.com/Sonnyhayka/SonnyHuynh.github.io)  
   My portfolio and blog, built with modern web technologies.
 
-## 📫 How to Reach Me
+## 📫 My Contacts
 
 - Email: huynhhoangson608@gmail.com
 - LinkedIn: https://www.linkedin.com/in/son-hoang-huynh
