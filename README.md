@@ -1,17 +1,16 @@
-# 👋 Hi, I'm Son Huynh!
+# Hi, I'm Son Huynh!
 
 Welcome to my GitHub profile! I'm a passionate developer and engineer interested in computer architecture, embedded systems, and creative coding projects. Here you'll find a collection of my work, ranging from RISC-V CPU designs to web development and data modeling.
-
 
 
 ## 🚀 About Me
 
 - 🏫 **Currently a Computer Engineering major at SDSU (San Diego State University)**
-- 💻 Experienced with VHDL, Verilog, Python, JavaScript, and C++
+- 💻 Experienced with SystemVerilog, Python, C++ and Javascript.
 - 🛠️ Enjoy working on FPGA projects and exploring low-level computing
 - 📊 Interested in data modeling, machine learning, and simulation
 
-## 🔥 Featured Projects
+## Featured Projects
 
 - [RISC-V 5-Stage Pipeline CPU](https://github.com/Sonnyhayka/RISC-V-5-Stage-Pipeline-CPU)  
   A custom implementation of a RISC-V CPU with a 5-stage pipeline.
@@ -33,6 +32,4 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer interested
 Check out my latest repositories and contributions, and feel free to connect or collaborate!
 
 ---
-
-_Thanks for stopping by!_ 😊
-![Cat on Skateboard](https://media1.tenor.com/m/y8zjaIK8rpoAAAAC/cat-on-skateboard-cat.gif)
+![Cat on Skateboard](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGZpcGxpbDIydXVhcXd3eXJuZGt6MmtyNDdqa3VhZnplMjZlNW5tdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/200.gif)
