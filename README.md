@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer interested
 - [RISC-V 5-Stage Pipeline CPU](https://github.com/Sonnyhayka/RISC-V-5-Stage-Pipeline-CPU)  
   A custom implementation of a RISC-V CPU with a 5-stage pipeline.
 
-- [Covid Logistic Model](https://github.com/Sonnyhayka/Covid-logistic-model)  
-  Data science project modeling the spread of COVID-19 using logistic regression.
+- [ FPGA-Implementation-of-Fixed-Point-and-Floating-Point-Data-paths ]([https://github.com/Sonnyhayka/Covid-logistic-model](https://github.com/Sonnyhayka/FPGA-Implementation-of-Fixed-Point-and-Floating-Point-Data-paths)  
+  Implementation of Fixed Point data for Adder and Multiplier. 
 
 - [Personal Website](https://github.com/Sonnyhayka/SonnyHuynh.github.io)  
   My portfolio and blog, built with modern web technologies.
