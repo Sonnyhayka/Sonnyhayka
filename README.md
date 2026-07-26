@@ -1,29 +1,41 @@
-# Hi, I'm Son Huynh!
+# Hi, I'm Son Huynh
+## About Me
 
-Welcome to my GitHub profile! I'm a passionate developer and engineer interested in computer architecture, embedded systems, and creative coding projects. Here you'll find a collection of my work, ranging from RISC-V CPU designs to web development and data modeling.
-
-
-##  About Me
-
-- **Currently a Computer Engineering major at SDSU (San Diego State University)**
-- Interested in data modeling, machine learning, and simulation
+- Computer Engineering B.S. at San Diego State University
+- Interested in machine learning, neuromorphic computing, and simulation
 
 ## Featured Projects
-- Ai Tutour (https://github.com/Sonnyhayka/ai-tutor-main)
-  - AI Tutor is a full-stack learning platform that helps students organize courses, connect study materials, ask AI-powered questions, and generate short educational videos from their content. It uses a FastAPI backend, Next.js frontend, database models, tutoring sessions, chat history, and external AI integrations to create a personalized study experience.
-    
-- [RISC-V 5-Stage Pipeline CPU](https://github.com/Sonnyhayka/RISC-V-5-Stage-Pipeline-CPU)
-  - A custom implementation of a RISC-V CPU with a 5-stage pipeline.
+
+### [SpikeBridge Neural Network](https://github.com/Sonnyhayka/Spiking-Neural-Network-SNN)
+
+**Python, PyTorch, SpikingJelly, Cadence**
+
+A spiking neural network that embeds a transistor-level Cadence integrate-and-fire neuron directly into a trainable PyTorch and SpikingJelly model, achieving spike-for-spike agreement with the analog circuit. Trained on MNIST across configurable network sizes using surrogate-gradient descent under 2, 4, and 8-bit weight quantization.
+
+### [Korra AI Agent](https://github.com/Sonnyhayka/Korra-Project---AI-Agent)
+
+**Python, LangGraph, OpenAI GPT-4o-mini**
+
+A modular multi-agent AI assistant that uses a supervisor control unit to route each query to a specialized execution agent and compose the final response. Includes a SQLite-backed memory agent for persistent, context-aware conversations and a static-analysis agent that reviews Python, C, and RISC-V code.
+
+### [AI Tutor](https://github.com/Sonnyhayka/ai-tutor-main)
+
+**Next.js, FastAPI, Google Gemini, OpenAI**
+
+A full-stack AI tutoring platform that transforms students' own course materials into interactive, per-class study sessions powered by Google Gemini and OpenAI. Integrates Google Drive through the Model Context Protocol to auto-import study materials and generate short explainer videos from course content.
+
+## Technical Skills
+
+**Languages:** Python, C++, Verilog, RISC-V Assembly, SQL, JavaScript/TypeScript
+
+**AI/ML:** PyTorch, SpikingJelly, LangGraph, Pandas, NumPy, MCP
+
+**Web & Backend:** Next.js, FastAPI, REST APIs, 
+
+**Tools:** Visual Studio Code, Vivado, Cadence Virtuoso,
 
 ## How to Reach Me
 
 - Email: huynhhoangson608@gmail.com
 - LinkedIn: https://www.linkedin.com/in/son-hoang-huynh
-- GitHub: [@Sonnyhayka](https://github.com/Sonnyhayka)
-
-## Latest Activity
-
-Check out my latest repositories and contributions, and feel free to connect or collaborate!
-
----
-![Cat on Skateboard](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGZpcGxpbDIydXVhcXd3eXJuZGt6MmtyNDdqa3VhZnplMjZlNW5tdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/200.gif)
+- GitHub: https://github.com/Sonnyhayka
