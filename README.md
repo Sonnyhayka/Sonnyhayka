@@ -6,13 +6,7 @@
 
 ## Technical Skills
 
-**Languages:** Python, C++, Verilog, RISC-V Assembly, SQL, JavaScript/TypeScript
-
-**AI/ML:** PyTorch, SpikingJelly, LangGraph, Pandas, NumPy, MCP
-
-**Web & Backend:** Next.js, FastAPI, REST APIs, 
-
-**Tools:** Visual Studio Code, Vivado, Cadence Virtuoso,
+**Languages:** Python, C/C++, Verilog, JavaScript/TypeScript
 
 ## How to Reach Me
 
